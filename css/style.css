@@ -117,15 +117,7 @@ button[class="btn2"]:hover {
 a:hover{
     color: palegoldenrod;
 }
-@media(min-width: 280px){
-    
-    .img2{
-        position: absolute;
-        top:480px;
-        width: 100%;
-    }
-ss
-}
+
 
 @media (min-width: 1024px) {       
 nav,
